@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on Lightbi</title>
+    <title>hugo on Positiva</title>
     <link>https://lightbi-hugo-theme.netlify.app/tags/hugo/</link>
-    <description>Recent content in hugo on Lightbi</description>
+    <description>Recent content in hugo on Positiva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
-    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
+    <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster>
     <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lightbi-hugo-theme.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to use this Hugo theme ?</title>
       <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/use-this-theme/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/use-this-theme/</guid>
       <description>After downloding the theme, uzip the file and go to the &amp;lsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.
 hugo It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme. To check the website you can run the below command,
@@ -24,7 +24,7 @@ hugo server In the command prompt you can see that your website has started to b
       <title>Build a Hugo Blog</title>
       <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/build-hugo-blog/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/build-hugo-blog/</guid>
       <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.
 First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.</description>
@@ -34,7 +34,7 @@ First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Mal
       <title>Rich Content</title>
       <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/rich-content/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
  YouTube Privacy Enhanced Shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:
@@ -45,7 +45,7 @@ First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Mal
       <title>Host in Netlify</title>
       <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/netlify-conf/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/netlify-conf/</guid>
       <description>You can host your static website wth zero cost in Netlify.
 Add the below netlify.toml in the root folder.

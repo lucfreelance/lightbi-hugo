@@ -37,12 +37,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lightbi-hugo-theme.netlify.app/</loc>
+    <loc>https://lightbi-hugo-theme.netlify.app/tags/newsletter/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://lightbi-hugo-theme.netlify.app/tags/newsletter/</loc>
+    <loc>https://lightbi-hugo-theme.netlify.app/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

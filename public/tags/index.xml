@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lightbi</title>
+    <title>Tags on Positiva</title>
     <link>https://lightbi-hugo-theme.netlify.app/tags/</link>
-    <description>Recent content in Tags on Lightbi</description>
+    <description>Recent content in Tags on Positiva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
-    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
+    <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lightbi-hugo-theme.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>newsletter</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/newsletter/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/newsletter/</guid>
       <description></description>
     </item>
@@ -22,7 +22,7 @@
       <title>blog</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/blog/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/blog/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
       <title>hugo</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/hugo/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/hugo/</guid>
       <description></description>
     </item>
@@ -40,7 +40,7 @@
       <title>markdown</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/markdown/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/markdown/</guid>
       <description></description>
     </item>
@@ -49,7 +49,7 @@
       <title>syntax</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/syntax/</link>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/syntax/</guid>
       <description></description>
     </item>
@@ -58,7 +58,7 @@
       <title>shortcodes</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/shortcodes/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/shortcodes/</guid>
       <description></description>
     </item>
@@ -67,7 +67,7 @@
       <title>Netlify</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/netlify/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/netlify/</guid>
       <description></description>
     </item>
@@ -76,7 +76,7 @@
       <title>stoicism</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/stoicism/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/stoicism/</guid>
       <description></description>
     </item>

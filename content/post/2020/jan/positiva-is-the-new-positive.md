@@ -1,7 +1,7 @@
 ---
 title: Positiva is the new positive
 date: 2020-01-04
-tags: ["echo", "diversity"]
+tags: ["stoicism"]
 image: "/img/posts/img-2.jpg"
 Description: "In a world driven by change, positivity emerges as a guiding light. As we navigate the complexities of modern living, it's important to remember that every small action has the potential to create a significant impact."
 featured: true

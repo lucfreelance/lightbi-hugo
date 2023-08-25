@@ -1,6 +1,7 @@
 ---
-title: Note 2
-date: 2020-02-01 
+title: Eco 2
+date: 2023-02-01 
 ---
-Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do. 
+**Harmony Within Ecosystems**
+   Ecology uncovers the delicate equilibrium within ecosystems, where every organism plays a role in maintaining the intricate balance of life.
  

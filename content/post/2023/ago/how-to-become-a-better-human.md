@@ -1,6 +1,6 @@
 ---
 title: How to become a better human
-date: 2021-02-02
+date: 2023-02-02
 tags: ["hugo", "blog"]
 image: "/img/posts/img-3.jpg"
 Description: "Becoming a better human involves a constant quest for self-improvement, not only for our own sake but for the collective good. Embracing empathy, practicing mindfulness, and cultivating kindness are just a few steps on this transformative journey. Through introspection and action, we delve into the practices that allow us to transcend our limitations and make meaningful contributions to the world around us."

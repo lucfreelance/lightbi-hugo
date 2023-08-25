@@ -1,9 +1,10 @@
 ---
 title: What is Markdown ?
-date: 2020-01-27
+date: 2023-01-27
 tags: ["markdown"]
 image : "/img/posts/img-1.jpg"
 Description  : "The concept of overpopulation has long been a subject of debate, often accompanied by doomsday predictions of resource scarcity and ecological collapse. However, a closer examination of demographic trends and consumption patterns reveals a more nuanced reality. The narrative of overpopulation overlooks the progress made in areas such as education and access to contraception. Addressing global challenges requires a holistic understanding that goes beyond simplistic population equations, prompting us to focus on sustainable practices and equitable resource distribution."
+featured: true
 ---
 The concept of overpopulation has long been a subject of debate, often accompanied by doomsday predictions of resource scarcity and ecological collapse. However, a closer examination of demographic trends and consumption patterns reveals a more nuanced reality. The narrative of overpopulation overlooks the progress made in areas such as education and access to contraception. Addressing global challenges requires a holistic understanding that goes beyond simplistic population equations, prompting us to focus on sustainable practices and equitable resource distribution.
 

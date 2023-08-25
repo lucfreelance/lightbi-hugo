@@ -8,20 +8,20 @@
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
     <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>newsletter</title>
-      <link>https://positiva.netlify.app/tags/newsletter/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <title>stoicism</title>
+      <link>https://positiva.netlify.app/tags/stoicism/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva.netlify.app/tags/newsletter/</guid>
+      <guid>https://positiva.netlify.app/tags/stoicism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
       <link>https://positiva.netlify.app/tags/blog/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/tags/blog/</guid>
       <description></description>
@@ -30,7 +30,7 @@
     <item>
       <title>hugo</title>
       <link>https://positiva.netlify.app/tags/hugo/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/tags/hugo/</guid>
       <description></description>
@@ -39,7 +39,7 @@
     <item>
       <title>markdown</title>
       <link>https://positiva.netlify.app/tags/markdown/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/tags/markdown/</guid>
       <description></description>
@@ -48,7 +48,7 @@
     <item>
       <title>syntax</title>
       <link>https://positiva.netlify.app/tags/syntax/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/tags/syntax/</guid>
       <description></description>
@@ -57,7 +57,7 @@
     <item>
       <title>shortcodes</title>
       <link>https://positiva.netlify.app/tags/shortcodes/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/tags/shortcodes/</guid>
       <description></description>
@@ -66,18 +66,18 @@
     <item>
       <title>Netlify</title>
       <link>https://positiva.netlify.app/tags/netlify/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/tags/netlify/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>stoicism</title>
-      <link>https://positiva.netlify.app/tags/stoicism/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>newsletter</title>
+      <link>https://positiva.netlify.app/tags/newsletter/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva.netlify.app/tags/stoicism/</guid>
+      <guid>https://positiva.netlify.app/tags/newsletter/</guid>
       <description></description>
     </item>
     

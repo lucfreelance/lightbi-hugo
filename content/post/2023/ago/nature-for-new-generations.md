@@ -4,6 +4,7 @@ date: 2023-01-25
 tags: ["markdown", "syntax"]
 image: "/img/posts/img-7.jpg"
 Description: "The legacy of nature is an inheritance we pass down to the generations that follow. In an age dominated by screens and virtual experiences, how do we instill a deep love and appreciation for the natural world in the hearts of our youth? This article explores the importance of introducing children to the wonders of nature, fostering an understanding that goes beyond textbooks and creating stewards who will protect our planet's future."
+featured: true
 ---
 
 # Nature for New Generations

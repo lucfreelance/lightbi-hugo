@@ -4,6 +4,7 @@ date: 2023-01-04
 tags: ["hugo", "Netlify"]
 image: "/img/posts/img-10.jpg"
 Description: "Amid the bustling cities and modern landscapes, pockets of pristine nature remain, offering refuge for weary souls seeking solace. These better places—whether hidden urban oases or remote wilderness sanctuaries—are where the beauty of the natural world flourishes. From the serene stillness of ancient forests to the vibrant energy of coral reefs, these places remind us of our intrinsic connection to the Earth. By venturing beyond the familiar, we discover the true treasures that nature has to offer."
+featured: true
 ---
 
 Amid the bustling cities and modern landscapes, pockets of pristine nature remain, offering refuge for weary souls seeking solace. These better places—whether hidden urban oases or remote wilderness sanctuaries—are where the beauty of the natural world flourishes. From the serene stillness of ancient forests to the vibrant energy of coral reefs, these places remind us of our intrinsic connection to the Earth. By venturing beyond the familiar, we discover the true treasures that nature has to offer.

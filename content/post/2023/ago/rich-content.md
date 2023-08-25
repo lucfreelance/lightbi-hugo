@@ -1,9 +1,9 @@
 ---
-title: Rich Content
-date: 2020-01-20
+title: Human is Not the Enemy
+date: 2023-01-20
 tags: ["hugo", "shortcodes"]
 image: "/img/posts/img-5.jpg"
-Description: "Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable."
+Description: "The narrative often paints humanity as a destructive force, an enemy of the environment. However, a more nuanced perspective reveals that humans possess incredible potential to be stewards of the planet. By harnessing our creativity, innovation, and compassion, we have the capacity to mend the wounds inflicted on nature and forge a path towards coexistence and healing."
 featured: true
 ---
 

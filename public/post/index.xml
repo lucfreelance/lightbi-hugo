@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Positiva</title>
+    <title>Positiva - Echo notes &#43; news</title>
     <link>https://lightbi-hugo-theme.netlify.app/post/</link>
-    <description>Recent content on Positiva</description>
+    <description>Recent content on Positiva - Echo notes &#43; news</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
@@ -84,6 +84,16 @@ Add the below netlify.toml in the root folder.
       <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.
 As a child, the answer to this question was simple. Say my name to the question of who. Aha ..! Simple and beautiful. In that answer, parents and siblings in adolescence. I thought to myself that the answer was too clear.
 When I started asking myself this question at a young age when I was beginning to recognize many things, I began to feel that the answer was becoming less clear.</description>
+    </item>
+    
+    <item>
+      <title>Positiva is the new positive</title>
+      <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/positiva-is-the-new-positive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/positiva-is-the-new-positive/</guid>
+      <description>Positiva is the new positive In a world driven by change, positivity emerges as a guiding light. As we navigate the complexities of modern living, it&amp;rsquo;s important to remember that every small action has the potential to create a significant impact.
+Finding Balance At the heart of our journey is the pursuit of ecological harmony. We believe that positivity can be channeled into sustainability, and that each step toward a greener world is a step toward a brighter future.</description>
     </item>
     
   </channel>

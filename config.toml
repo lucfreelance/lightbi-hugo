@@ -1,7 +1,7 @@
 baseURL = "https://lightbi-hugo-theme.netlify.app/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Positiva"
+title = "Positiva - Echo notes + news"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -79,13 +79,13 @@ pagination = "10"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
+    name = "Collections"
+    url = "/collections/"
     weight = 3
 
 [[menu.main]]
-    name = "Collections"
-    url = "/collections/"
+    name = "Tags"
+    url = "/tags/blog/"
     weight = 4
 
 [[menu.main]]

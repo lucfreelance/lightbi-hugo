@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Positiva</title>
+    <title>Tags on Positiva - Echo notes &#43; news</title>
     <link>https://lightbi-hugo-theme.netlify.app/tags/</link>
-    <description>Recent content in Tags on Positiva</description>
+    <description>Recent content in Tags on Positiva - Echo notes &#43; news</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
@@ -78,6 +78,24 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/stoicism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diversity</title>
+      <link>https://lightbi-hugo-theme.netlify.app/tags/diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://lightbi-hugo-theme.netlify.app/tags/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>echo</title>
+      <link>https://lightbi-hugo-theme.netlify.app/tags/echo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://lightbi-hugo-theme.netlify.app/tags/echo/</guid>
       <description></description>
     </item>
     

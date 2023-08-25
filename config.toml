@@ -1,4 +1,4 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://positiva.netlify.app/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Positiva - Echo notes + news"

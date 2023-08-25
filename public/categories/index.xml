@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Positiva - Echo notes &#43; news</title>
-    <link>https://lightbi-hugo-theme.netlify.app/categories/</link>
+    <link>https://positiva.netlify.app/categories/</link>
     <description>Recent content in Categories on Positiva - Echo notes &#43; news</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
-    <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster><atom:link href="https://lightbi-hugo-theme.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster><atom:link href="https://positiva.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

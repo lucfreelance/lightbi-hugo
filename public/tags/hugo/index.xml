@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Positiva - Echo notes &#43; news</title>
-    <link>https://lightbi-hugo-theme.netlify.app/tags/hugo/</link>
+    <link>https://positiva.netlify.app/tags/hugo/</link>
     <description>Recent content in hugo on Positiva - Echo notes &#43; news</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
     <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lightbi-hugo-theme.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to use this Hugo theme ?</title>
-      <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/use-this-theme/</link>
+      <link>https://positiva.netlify.app/post/2020/jan/use-this-theme/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/use-this-theme/</guid>
+      <guid>https://positiva.netlify.app/post/2020/jan/use-this-theme/</guid>
       <description>After downloding the theme, uzip the file and go to the &amp;lsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.
 hugo It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme. To check the website you can run the below command,
 hugo server In the command prompt you can see that your website has started to build and it will normally available at &amp;lsquo;http://localhost:1313/&amp;rsquo;.</description>
@@ -22,30 +22,30 @@ hugo server In the command prompt you can see that your website has started to b
     
     <item>
       <title>Build a Hugo Blog</title>
-      <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/build-hugo-blog/</link>
+      <link>https://positiva.netlify.app/post/2020/jan/build-hugo-blog/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/build-hugo-blog/</guid>
+      <guid>https://positiva.netlify.app/post/2020/jan/build-hugo-blog/</guid>
       <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.
 First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.</description>
     </item>
     
     <item>
       <title>Positiva is the new positive</title>
-      <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/positiva-is-the-new-positive/</link>
+      <link>https://positiva.netlify.app/post/2020/jan/positiva-is-the-new-positive/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/positiva-is-the-new-positive/</guid>
+      <guid>https://positiva.netlify.app/post/2020/jan/positiva-is-the-new-positive/</guid>
       <description>Positiva is the new positive In a world driven by change, positivity emerges as a guiding light. As we navigate the complexities of modern living, it&amp;rsquo;s important to remember that every small action has the potential to create a significant impact.
 Finding Balance At the heart of our journey is the pursuit of ecological harmony. We believe that positivity can be channeled into sustainability, and that each step toward a greener world is a step toward a brighter future.</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/rich-content/</link>
+      <link>https://positiva.netlify.app/post/2020/jan/rich-content/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/rich-content/</guid>
+      <guid>https://positiva.netlify.app/post/2020/jan/rich-content/</guid>
       <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
  YouTube Privacy Enhanced Shortcode The youtube shortcode embeds a responsive video player for YouTube videos. Only the ID of the video is required, e.g.:
    Twitter You want to include a single tweet into your blog post?</description>
@@ -53,10 +53,10 @@ Finding Balance At the heart of our journey is the pursuit of ecological harmony
     
     <item>
       <title>Host in Netlify</title>
-      <link>https://lightbi-hugo-theme.netlify.app/post/2020/jan/netlify-conf/</link>
+      <link>https://positiva.netlify.app/post/2020/jan/netlify-conf/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/post/2020/jan/netlify-conf/</guid>
+      <guid>https://positiva.netlify.app/post/2020/jan/netlify-conf/</guid>
       <description>You can host your static website wth zero cost in Netlify.
 Add the below netlify.toml in the root folder.
 [build] publish = &amp;quot;public&amp;quot; command = &amp;quot;hugo --gc --minify&amp;quot; [context.production.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; HUGO_ENV = &amp;quot;production&amp;quot; HUGO_ENABLEGITINFO = &amp;quot;true&amp;quot; [context.split1] command = &amp;quot;hugo --gc --minify --enableGitInfo&amp;quot; [context.split1.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; HUGO_ENV = &amp;quot;production&amp;quot; [context.deploy-preview] command = &amp;quot;hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL&amp;quot; [context.deploy-preview.environment] HUGO_VERSION = &amp;quot;0.82.0&amp;quot; [context.branch-deploy] command = &amp;quot;hugo -b $DEPLOY_PRIME_URL&amp;quot; [context.</description>

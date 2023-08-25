@@ -126,12 +126,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://lightbi-hugo-theme.netlify.app/tags/diversity/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lightbi-hugo-theme.netlify.app/tags/echo/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://lightbi-hugo-theme.netlify.app/post/2020/jan/netlify-conf/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://lightbi-hugo-theme.netlify.app/tags/netlify/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://lightbi-hugo-theme.netlify.app/post/2020/jan/positiva-is-the-new-positive/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -151,18 +166,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://lightbi-hugo-theme.netlify.app/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lightbi-hugo-theme.netlify.app/tags/diversity/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lightbi-hugo-theme.netlify.app/tags/echo/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://lightbi-hugo-theme.netlify.app/post/2020/jan/positiva-is-the-new-positive/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -64,6 +64,24 @@
     </item>
     
     <item>
+      <title>diversity</title>
+      <link>https://lightbi-hugo-theme.netlify.app/tags/diversity/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://lightbi-hugo-theme.netlify.app/tags/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>echo</title>
+      <link>https://lightbi-hugo-theme.netlify.app/tags/echo/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://lightbi-hugo-theme.netlify.app/tags/echo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Netlify</title>
       <link>https://lightbi-hugo-theme.netlify.app/tags/netlify/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
@@ -78,24 +96,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://lightbi-hugo-theme.netlify.app/tags/stoicism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diversity</title>
-      <link>https://lightbi-hugo-theme.netlify.app/tags/diversity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/tags/diversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>echo</title>
-      <link>https://lightbi-hugo-theme.netlify.app/tags/echo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://lightbi-hugo-theme.netlify.app/tags/echo/</guid>
       <description></description>
     </item>
     

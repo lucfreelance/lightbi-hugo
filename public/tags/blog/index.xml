@@ -8,32 +8,30 @@
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
     <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva.netlify.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva.netlify.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to use this Hugo theme ?</title>
-      <link>https://positiva.netlify.app/post/2023/ago/use-this-theme/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <title>How to become a better human</title>
+      <link>https://positiva.netlify.app/post/2023/ago/how-to-become-a-better-human/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva.netlify.app/post/2023/ago/use-this-theme/</guid>
-      <description>After downloding the theme, uzip the file and go to the &amp;lsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.
-hugo It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme. To check the website you can run the below command,
-hugo server In the command prompt you can see that your website has started to build and it will normally available at &amp;lsquo;http://localhost:1313/&amp;rsquo;.</description>
+      <guid>https://positiva.netlify.app/post/2023/ago/how-to-become-a-better-human/</guid>
+      <description>How to Become a Better Human Becoming a better human involves a constant quest for self-improvement, not only for our own sake but for the collective good. Embracing empathy, practicing mindfulness, and cultivating kindness are just a few steps on this transformative journey. Through introspection and action, we delve into the practices that allow us to transcend our limitations and make meaningful contributions to the world around us.
+Embrace Empathy: One of the cornerstones of becoming a better human is cultivating empathy.</description>
     </item>
     
     <item>
-      <title>Build a Hugo Blog</title>
-      <link>https://positiva.netlify.app/post/2023/ago/build-hugo-blog/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Nature is Magic</title>
+      <link>https://positiva.netlify.app/post/2023/ago/nature-is-magic/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva.netlify.app/post/2023/ago/build-hugo-blog/</guid>
-      <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.
-First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.</description>
+      <guid>https://positiva.netlify.app/post/2023/ago/nature-is-magic/</guid>
+      <description>Nature is Magic In a world dominated by the empirical and the logical, a realm of enchantment lies just beyond our grasp—within the embrace of nature itself. Nature&amp;rsquo;s profound allure transcends mere science, speaking to something deeper within us. From the vibrant, ephemeral hues of a sunrise to the mesmerizing dance of fireflies in the moonlit night, the natural world whispers secrets that stir our souls. It is as if the very fabric of existence holds threads of enchantment that weave through the tapestry of life.</description>
     </item>
     
     <item>
       <title>Positiva is the new positive</title>
       <link>https://positiva.netlify.app/post/2023/ago/positiva-is-the-new-positive/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/post/2023/ago/positiva-is-the-new-positive/</guid>
       <description>Positiva is the new positive In a world driven by change, positivity emerges as a guiding light. As we navigate the complexities of modern living, it&amp;rsquo;s important to remember that every small action has the potential to create a significant impact.

@@ -1,7 +1,7 @@
 baseURL = "https://positiva.netlify.app/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Positiva - Echo notes + news"
+title = "Positiva - Ecology notes + news"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"

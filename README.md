@@ -5,3 +5,6 @@ Lightbi-hugo
 ## 
 
 ### Nice Commands
+
+- git reflog
+- 

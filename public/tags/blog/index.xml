@@ -1,39 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Positiva - Echo notes &#43; news</title>
+    <title>blog on Positiva - Ecology notes &#43; news</title>
     <link>https://positiva.netlify.app/tags/blog/</link>
-    <description>Recent content in blog on Positiva - Echo notes &#43; news</description>
+    <description>Recent content in blog on Positiva - Ecology notes &#43; news</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
     <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva.netlify.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva.netlify.app/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to use this Hugo theme ?</title>
-      <link>https://positiva.netlify.app/post/2023/ago/use-this-theme/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Better Places for Known Nature</title>
+      <link>https://positiva.netlify.app/post/2023/ago/better-places-for-known-nature/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva.netlify.app/post/2023/ago/use-this-theme/</guid>
-      <description>After downloding the theme, uzip the file and go to the &amp;lsquo;lightbi-hugo-master&amp;rsquo; folder. Open the folder in you editor and run the hugo build command as below.
-hugo It will create a folder named &amp;lsquo;public&amp;rsquo; and in the same you can find the website created by Hugo from the contents from &amp;lsquo;content&amp;rsquo; folder and the theme. To check the website you can run the below command,
-hugo server In the command prompt you can see that your website has started to build and it will normally available at &amp;lsquo;http://localhost:1313/&amp;rsquo;.</description>
+      <guid>https://positiva.netlify.app/post/2023/ago/better-places-for-known-nature/</guid>
+      <description>Better Places for Known Nature Soever the bustling cities and modern landscapes, pockets of pristine nature remain, offering refuge for weary souls seeking solace. These better places—whether hidden urban oases or remote wilderness sanctuaries—are where the beauty of the natural world flourishes. From the serene stillness of ancient forests to the vibrant energy of coral reefs, these places remind us of our intrinsic connection to the Earth. By venturing beyond the familiar, we discover the true treasures that nature has to offer.</description>
     </item>
     
     <item>
-      <title>Build a Hugo Blog</title>
-      <link>https://positiva.netlify.app/post/2023/ago/build-hugo-blog/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <title>How to become a better human</title>
+      <link>https://positiva.netlify.app/post/2023/ago/how-to-become-a-better-human/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva.netlify.app/post/2023/ago/build-hugo-blog/</guid>
-      <description>Hugo? It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub Pages to Amazon S3 without any database or other language dependencies.
-First I started to use Hugo is for my Malayalam write up a blog wizbi tales (Malayalam is a language spoken in Kerala, India), After the initial learning curves, I loved it for simplicity and performance. And when I started this blog itself I didn’t think twice.</description>
+      <guid>https://positiva.netlify.app/post/2023/ago/how-to-become-a-better-human/</guid>
+      <description>How to Become a Better Human Becoming a better human involves a constant quest for self-improvement, not only for our own sake but for the collective good. Embracing empathy, practicing mindfulness, and cultivating kindness are just a few steps on this transformative journey. Through introspection and action, we delve into the practices that allow us to transcend our limitations and make meaningful contributions to the world around us.
+Embrace Empathy: One of the cornerstones of becoming a better human is cultivating empathy.</description>
+    </item>
+    
+    <item>
+      <title>Nature is Magic</title>
+      <link>https://positiva.netlify.app/post/2023/ago/nature-is-magic/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://positiva.netlify.app/post/2023/ago/nature-is-magic/</guid>
+      <description>Nature is Magic In a world dominated by the empirical and the logical, a realm of enchantment lies just beyond our grasp—within the embrace of nature itself. Nature&amp;rsquo;s profound allure transcends mere science, speaking to something deeper within us. From the vibrant, ephemeral hues of a sunrise to the mesmerizing dance of fireflies in the moonlit night, the natural world whispers secrets that stir our souls. It is as if the very fabric of existence holds threads of enchantment that weave through the tapestry of life.</description>
+    </item>
+    
+    <item>
+      <title>Overpopulation Is A Myth</title>
+      <link>https://positiva.netlify.app/post/2023/ago/overpopulation-is-a-myth/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://positiva.netlify.app/post/2023/ago/overpopulation-is-a-myth/</guid>
+      <description>Overpopulation Is A Myth The concept of overpopulation has long been a subject of debate, often accompanied by doomsday predictions of resource scarcity and ecological collapse. However, a closer examination of demographic trends and consumption patterns reveals a more nuanced reality. The narrative of overpopulation overlooks the progress made in areas such as education and access to contraception. Addressing global challenges requires a holistic understanding that goes beyond simplistic population equations, prompting us to focus on sustainable practices and equitable resource distribution.</description>
+    </item>
+    
+    <item>
+      <title>Nature for New Generations</title>
+      <link>https://positiva.netlify.app/post/2023/ago/nature-for-new-generations/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://positiva.netlify.app/post/2023/ago/nature-for-new-generations/</guid>
+      <description>Nature for New Generations The legacy of nature is an inheritance we pass down to the generations that follow. In an age dominated by screens and virtual experiences, how do we instill a deep love and appreciation for the natural world in the hearts of our youth? This article explores the importance of introducing children to the wonders of nature, fostering an understanding that goes beyond textbooks, and creating stewards who will protect our planet&amp;rsquo;s future.</description>
+    </item>
+    
+    <item>
+      <title>Human is Not the Enemy</title>
+      <link>https://positiva.netlify.app/post/2023/ago/human-is-not-the-enemy/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://positiva.netlify.app/post/2023/ago/human-is-not-the-enemy/</guid>
+      <description>Human is Not the Enemy While humanity&amp;rsquo;s impact on the environment is undeniable, painting humans as the sole enemy ignores the potential for positive change. Inherent within us is the power to heal, restore, and protect. Through innovation, collaboration, and conscious choices, we can mend the scars on the Earth&amp;rsquo;s surface and foster a harmonious coexistence with nature. By recognizing our capacity for positive impact, we embark on a journey toward ecological harmony and a shared future where humanity is a force for good.</description>
+    </item>
+    
+    <item>
+      <title>Risk of Extinction Species</title>
+      <link>https://positiva.netlify.app/post/2023/ago/risk-of-extinction-species/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <author>lucfreelance@gmail.com (Lucfreelance)</author>
+      <guid>https://positiva.netlify.app/post/2023/ago/risk-of-extinction-species/</guid>
+      <description>The intricate web of life on Earth is currently under siege, facing an unprecedented and ominous threat: the looming specter of species extinction. The diversity of life that paints our planet with vibrant colors and sustains its intricate ecosystems is at risk like never before. From the majestic creatures that once freely roamed vast savannas to the minuscule insects that play a vital role in the delicate dance of pollination, a multitude of species now hovers on the precipice of oblivion.</description>
     </item>
     
     <item>
       <title>Positiva is the new positive</title>
       <link>https://positiva.netlify.app/post/2023/ago/positiva-is-the-new-positive/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
       <guid>https://positiva.netlify.app/post/2023/ago/positiva-is-the-new-positive/</guid>
       <description>Positiva is the new positive In a world driven by change, positivity emerges as a guiding light. As we navigate the complexities of modern living, it&amp;rsquo;s important to remember that every small action has the potential to create a significant impact.

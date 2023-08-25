@@ -1,8 +1,8 @@
 ---
 title: Positiva is the new positive
-date: 2021-01-31
-tags: ["hugo", "blog"]
-image: "/img/posts/img-2.jpg"
+date: 2023-01-01
+tags: ["diversity", "blog", "echo"]
+image: "/img/posts/img-4.jpg"
 Description: "In a world driven by change, positivity emerges as a guiding light. As we navigate the complexities of modern living, it's important to remember that every small action has the potential to create a significant impact."
 featured: true
 ---

@@ -31,6 +31,26 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://positiva.netlify.app/notes/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva.netlify.app/notes/2023/change/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva.netlify.app/notes/2023/change2/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva.netlify.app/notes/2023/change3/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://positiva.netlify.app/post/2023/ago/nature-is-magic/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -52,6 +72,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://positiva.netlify.app/post/2023/ago/risk-of-extinction-species/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva.netlify.app/tags/hugo/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva.netlify.app/tags/netlify/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -108,26 +138,6 @@
   </url><url>
     <loc>https://positiva.netlify.app/post/2023/ago/positiva-is-the-new-positive/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva.netlify.app/notes/2023/change/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva.netlify.app/notes/2023/change2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva.netlify.app/notes/2023/change3/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva.netlify.app/notes/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

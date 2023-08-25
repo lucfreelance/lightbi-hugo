@@ -7,7 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<title>Positiva - Echo notes &#43; news</title>
+<title>Host in Netlify - Positiva - Echo notes &#43; news</title>
+<meta name="description" content="You can host your static website wth zero cost in Netlify. Add the below netlify.toml in the root. And you can upload the public folder directly...">
 
 <meta name="author" content="Lucfreelance"><script type="application/ld+json">
 {
@@ -29,8 +30,57 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/positiva.netlify.app\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/positiva.netlify.app\/post\/2023\/ago\/netlify-conf\/",
+          "name": "Host in netlify"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "Lucfreelance"
+  },
+  "headline": "Host in Netlify",
+  "description" : "You can host your static website wth zero cost in Netlify. Add the below netlify.toml in the root. And you can upload the public folder directly...",
+  "inLanguage" : "en",
+  "wordCount":  100 ,
+  "datePublished" : "2020-01-04T00:00:00",
+  "dateModified" : "2020-01-04T00:00:00",
+  "image" : "https:\/\/positiva.netlify.app\/",
+  "keywords" : [ "hugo, Netlify" ],
+  "mainEntityOfPage" : "https:\/\/positiva.netlify.app\/post\/2023\/ago\/netlify-conf\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/positiva.netlify.app\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/positiva.netlify.app\/",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:url" content="https://positiva.netlify.app/">
+<meta property="og:image" content="https://positiva.netlify.app/img/posts/img-10.jpg">
+<meta property="og:url" content="https://positiva.netlify.app/post/2023/ago/netlify-conf/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Positiva - Echo notes &#43; news">
    
@@ -175,21 +225,266 @@
 
 
 
+<header class="header-section ">
+
+  <div class="intro-header no-img mt-10">
+    <div class="container">
+      <div class="row justify-content-center">
+        
+        <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8">
+          
+
+          
+          <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+            
+
+            <div class="post-heading">
+              
+
+              
+
+              
+              <h1 class="fw-semibold display-5 lh-1 mb-3"> 
+                Host in Netlify
+                
+              </h1>
+              
+              
+
+              
+
+              
+              
+              <span class="post-meta">
+  
+  
+  &nbsp;4 January 40412 
+
+  
+
+  
+  
+  
+</span>
+
+
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
 
 
     
-
-<div class="intro-header no-img">
-</div>
-
 <div class="container" role="main">
   <div class="row">
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 ">
+
+      <div class="card-image card-image-blog p-0">
+        
+        <img src="/img/posts/img-10.jpg" alt="Host in Netlify" class="rounded img-fluid">
+        
+        
+      </div>
+    </div>
+ 
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 pt-4">
+      <article role="main" class="blog-post">
+        <p>You can host your static website wth zero cost in <a href="https://www.netlify.com/">Netlify</a>.</p>
+<p>Add the below netlify.toml in the root folder.</p>
+<pre><code>[build]
+publish = &quot;public&quot;
+command = &quot;hugo --gc --minify&quot;
+
+[context.production.environment]
+HUGO_VERSION = &quot;0.82.0&quot;
+HUGO_ENV = &quot;production&quot;
+HUGO_ENABLEGITINFO = &quot;true&quot;
+
+[context.split1]
+command = &quot;hugo --gc --minify --enableGitInfo&quot;
+
+[context.split1.environment]
+HUGO_VERSION = &quot;0.82.0&quot;
+HUGO_ENV = &quot;production&quot;
+
+[context.deploy-preview]
+command = &quot;hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL&quot;
+
+[context.deploy-preview.environment]
+HUGO_VERSION = &quot;0.82.0&quot;
+
+[context.branch-deploy]
+command = &quot;hugo -b $DEPLOY_PRIME_URL&quot;
+
+[context.branch-deploy.environment]
+HUGO_VERSION = &quot;0.82.0&quot;
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = &quot;true&quot;
+</code></pre>
+<p>And you can upload the public folder directly to Netlify or integrate your GitHub accout with Netlify to host your website.</p>
+<!-- raw HTML omitted -->
+
+      </article>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+      <hr />
+    </div>
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 pt-2">
+        
+          <div class="blog-tags">
+            
+              <a href="https://positiva.netlify.app//tags/hugo/">hugo</a>
+            
+              <a href="https://positiva.netlify.app//tags/netlify/">Netlify</a>
+            
+          </div>
+        
+      </div>
+ 
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 pt-4">
+      
+      <section id="social-share">
+        <div class="list-inline footer-links">
+          
+
+<div class="share-box" aria-hidden="true">
+  <div><p class="list-inline footer-links">Use the share button below if you liked it.</p></div>
+  <ul class="share">
+
     
+    <li>
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fpositiva.netlify.app%2fpost%2f2023%2fago%2fnetlify-conf%2f" target="_blank" title="Share on Facebook">
+        <i class="bi bi-facebook facebook-color"></i>
+      </a>
+    </li>
+
+    
+    <li>
+      <a href="//twitter.com/share?url=https%3a%2f%2fpositiva.netlify.app%2fpost%2f2023%2fago%2fnetlify-conf%2f&amp;text=Host%20in%20Netlify&amp;via=map%5bemail%3alucfreelance%40gmail.com%20facebook%3alucfreelance%20github%3alucfreelance%20instagram%3alucfreelance%20linkedin%3alucfreelance%20name%3aLucfreelance%20paypal%3alucfreelance%20twitter%3alucfreelance%20website%3ahttps%3a%2f%2flucfreelance.vercel.app%2f%20youtube%3auser%2flucfreelance%5d"
+        target="_blank" title="Share on Twitter">
+        <i class="bi bi-twitter twitter-color"></i>
+      </a>
+    </li>
+
+    
+    <li>
+      <a href="//reddit.com/submit?url=https%3a%2f%2fpositiva.netlify.app%2fpost%2f2023%2fago%2fnetlify-conf%2f&amp;title=Host%20in%20Netlify" target="_blank" title="Share on Reddit">
+        <i class="bi bi-reddit reddit-color"></i>
+      </a>
+    </li>
+
+    
+    <li>
+      <a href="whatsapp://send?text=https%3a%2f%2fpositiva.netlify.app%2fpost%2f2023%2fago%2fnetlify-conf%2f&amp;description=Host%20in%20Netlify" target="_blank" rel="noopener"
+        title="Share on WhatsApp">
+        <i class="bi bi-whatsapp whatsapp-color"></i>
+      </a>
+    </li>
 
 
     
+
     
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
+
+    
+
+    
+    
+
+  </ul>
+</div>
+<p class="text-muted">It makes me smile, when I see it.</p>
+
+        </div>
+      </section>
+      
+    </div>
+
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 mt-3">
+      <div class="card">
+        <div class="row no-gutters">
+          <div class="col-md-2 "> 
+            <div class="card-body ">
+            <img src="/img/bino-about-small.jpg" class="img-responsive img-50 img-round" alt="">
+          </div>
+          </div>
+          <div class="col-md-10">
+            <div class="card-body p-1.1">
+
+              <p class="p-0 m-0"><small class="text-muted ">Written By</small></p>
+              <h5>
+                
+                
+                Lucfreelance
+                
+                
+              </h5>
+              <p class="card-text fs-1"></p>
+            </div>
+          </div>
+        </div>
+
+      
+    </div>
+  </div>
+
+      <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 pt-4">
+        
+        <ul class="list-group list-group-horizontal" style="flex-direction: row">
+          
+          <li class="list-group-item b-0">
+
+            <a type="button" class="btn btn-dark" role="button" href="https://positiva.netlify.app/post/2023/ago/who-am-i/"
+              data-toggle="tooltip" data-placement="top" title="Who am I ?!">&larr;
+              Previous Post</a>
+          </li>
+          
+
+
+          
+          <li class="list-group-item ms-auto b-0">
+            <a type="button" class="btn btn-dark" role="button" href="https://positiva.netlify.app/post/2023/ago/rich-content/"
+              data-toggle="tooltip" data-placement="top" title="Rich Content">Next Post
+              &rarr;</a>
+          </li>
+          
+        </ul>
+        
+      </div>
+
+      <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 pt-4"> 
+      </div>
+    </div>
+  </div>
+
+  <div class="">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12 mt-3">
+          <h3>Read more</h3>
+          <hr />
+        </div>
+
+        
+        
+        
+        
+
+        
+ 
+        
+        
+         
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
     <div class="card h-100 single-post-card shadow-effect bg-faded-light">
         <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/use-this-theme/">
             <div class="card-body">
@@ -233,8 +528,9 @@
         </a>
     </div>
 </div> 
-    
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
+        
+         
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
     <div class="card h-100 single-post-card shadow-effect bg-faded-light">
         <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/build-hugo-blog/">
             <div class="card-body">
@@ -278,8 +574,9 @@
         </a>
     </div>
 </div> 
-    
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
+        
+         
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
     <div class="card h-100 single-post-card shadow-effect bg-faded-light">
         <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/positiva-is-the-new-positive/">
             <div class="card-body">
@@ -323,253 +620,20 @@
         </a>
     </div>
 </div> 
-    
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <div class="card h-100 single-post-card shadow-effect bg-faded-light">
-        <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/markdown/">
-            <div class="card-body">
+         
 
-                <h3 class="fw-bold post-title">What is Markdown ?</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta">
-  
-  
-  &nbsp;27 January 272712 
-
-  
-
-  
-  
-  
-</span>
-
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use...
-
-                    
-                </div>
-
-                <div class="read-more-section">
-                    <h6>Read more <i class="bi bi-arrow-right"></i></h6>
-                </div>
-            </div>
-
-            
-            <img src="/img/posts/img-1.jpg" alt="What is Markdown ?" class="card-img-bottom">
-            
-            
-        </a>
+        
+        
+      </div>
     </div>
-</div> 
+
     
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <div class="card h-100 single-post-card shadow-effect bg-faded-light">
-        <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/syntax/">
-            <div class="card-body">
-
-                <h3 class="fw-bold post-title">Basic Syntax</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta">
-  
-  
-  &nbsp;25 January 252512 
-
-  
-
-  
-  
-  
-</span>
-
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond...
-
-                    
-                </div>
-
-                <div class="read-more-section">
-                    <h6>Read more <i class="bi bi-arrow-right"></i></h6>
-                </div>
-            </div>
-
-            
-            <img src="/img/posts/img-7.jpg" alt="Basic Syntax" class="card-img-bottom">
-            
-            
-        </a>
-    </div>
-</div> 
-    
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <div class="card h-100 single-post-card shadow-effect bg-faded-light">
-        <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/rich-content/">
-            <div class="card-body">
-
-                <h3 class="fw-bold post-title">Rich Content</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta">
-  
-  
-  &nbsp;20 January 202012 
-
-  
-
-  
-  
-  
-</span>
-
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable.
-
-                    
-                </div>
-
-                <div class="read-more-section">
-                    <h6>Read more <i class="bi bi-arrow-right"></i></h6>
-                </div>
-            </div>
-
-            
-            <img src="/img/posts/img-5.jpg" alt="Rich Content" class="card-img-bottom">
-            
-            
-        </a>
-    </div>
-</div> 
-    
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <div class="card h-100 single-post-card shadow-effect bg-faded-light">
-        <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/netlify-conf/">
-            <div class="card-body">
-
-                <h3 class="fw-bold post-title">Host in Netlify</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta">
-  
-  
-  &nbsp;4 January 40412 
-
-  
-
-  
-  
-  
-</span>
-
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    You can host your static website wth zero cost in Netlify. Add the below netlify.toml in the root. And you can upload the public folder directly...
-
-                    
-                </div>
-
-                <div class="read-more-section">
-                    <h6>Read more <i class="bi bi-arrow-right"></i></h6>
-                </div>
-            </div>
-
-            
-            <img src="/img/posts/img-10.jpg" alt="Host in Netlify" class="card-img-bottom">
-            
-            
-        </a>
-    </div>
-</div> 
-    
-    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <div class="card h-100 single-post-card shadow-effect bg-faded-light">
-        <a class="card-flex" href="https://positiva.netlify.app/post/2023/ago/who-am-i/">
-            <div class="card-body">
-
-                <h3 class="fw-bold post-title">Who am I ?!</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta">
-  
-  
-  &nbsp;1 January 10112 
-
-  
-
-  
-  
-  
-</span>
-
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    Who am I ?! This is the most asked question in my life. Yet no clear answer...
-
-                    
-                </div>
-
-                <div class="read-more-section">
-                    <h6>Read more <i class="bi bi-arrow-right"></i></h6>
-                </div>
-            </div>
-
-            
-            <img src="/img/posts/img-0.jpg" alt="Who am I ?!" class="card-img-bottom">
-            
-            
-        </a>
-    </div>
-</div> 
-    
-
 
   </div>
 </div>
-
-<div class="container">
-  <div class="row font-sans">
-    <div class="col-md-12 mt-10">
-      <nav aria-label="Page navigation">
-        <div class="pagination justify-content-end">
-          
-        </div>
-      </nav>
-    </div>
-  </div>
 </div>
 
-
     
-
-
 
 
 <footer>

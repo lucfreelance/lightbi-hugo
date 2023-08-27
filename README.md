@@ -7,9 +7,13 @@
  \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/  █▄▄ █ █ █▄▄ █
 ```
 
-Incorporating eco-conscious practices, informative outreach, and a commitment to enhancing the environment seamlessly into a life of well-being with [positiva].
+Incorporating eco-conscious practices, informative outreach, and a commitment to enhancing the environment seamlessly into a life of well-being with
+
+[positiva CALI][https://positiva-cali.vercel.app/]
 
 ## Nice Commands
+
+### Running and Building commands
 
 - hugo
 
@@ -17,13 +21,15 @@ Incorporating eco-conscious practices, informative outreach, and a commitment to
 
 - hugo serve
 
+- git reflog
+
+### Local server
+
 - npm install -g http-server
 
-Luego, para servir el sitio localmente, ejecuta el siguiente comando en la raíz del proyecto:
+next, to serve locally just run the next command in project root:
 
 - http-server
-
-- git reflog
 
 ## Installation
 
@@ -101,8 +107,3 @@ sudo apt install busybox
 Then, to start the HTTP server, navigate to your project folder and execute the following command:
 
 busybox httpd -p 8080
-
-# Nice catchs
-
-- https://tableboard.wordpress.com/
-- https://lucfreelance.github.io/board/

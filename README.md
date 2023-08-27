@@ -1,10 +1,10 @@
 # Hello and welcome to Positiva the best eco blog from Cali!
 
 ```YAML
-  _   _   _   _   _   _   _   _  ░░░░░░░░░░░░▲
- / \ / \ / \ / \ / \ / \ / \ / \ █▀▀ █▀█░█░░░█
-| P | O | S | I | T | I | V | A |█░░░█▄█░█░░░█
- \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ █▄▄ █░█░█▄▄░█
+  _   _   _   _   _   _   _   _               ▲
+ / \ / \ / \ / \ / \ / \ / \ / \  █▀▀ █▀█ █   █
+| p | o | s | i | t | i | v | a | █   █▄█ █   █
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/  █▄▄ █ █ █▄▄ █
 ```
 
 Incorporating eco-conscious practices, informative outreach, and a commitment to enhancing the environment seamlessly into a life of well-being with [positiva].

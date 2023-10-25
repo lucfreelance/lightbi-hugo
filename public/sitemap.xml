@@ -2,146 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://positiva-cali.vercel.app/post/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/better-places-for-known-nature/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/positiva-es-el-nuevo-positivo/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://positiva-cali.vercel.app/post/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
     <loc>https://positiva-cali.vercel.app/tags/blog/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/como-convertirse-en-un-mejor-ser-humano/</loc>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://positiva-cali.vercel.app/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://positiva-cali.vercel.app/tags/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/how-to-become-a-better-human/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/naturaleza-para-las-nuevas-generaciones/</loc>
+    <lastmod>2023-10-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/notes/</loc>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/la-sobrepoblacion-es-un-mito/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/la-naturaleza-es-magica/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/mejores-lugares-para-la-naturaleza-conocida/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/el-humano-no-es-el-enemigo/</loc>
+    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/cosas/2023/cosa2/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/post/2023/ago/riesgo-de-extincion-de-las-especies/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/cosas/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/tags/store/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/cosas/2023/cosa1/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://positiva-cali.vercel.app/notas/2023/nota1/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/notes/2023/change/</loc>
+    <loc>https://positiva-cali.vercel.app/notas/2023/nota2/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/notes/2023/change2/</loc>
+    <loc>https://positiva-cali.vercel.app/notas/2023/nota3/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/notes/2023/change3/</loc>
+    <loc>https://positiva-cali.vercel.app/notas/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/nature-is-magic/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/overpopulation-is-a-myth/</loc>
-    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/nature-for-new-generations/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/human-is-not-the-enemy/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/risk-of-extinction-species/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/tags/hugo/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/tags/netlify/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/collections/</loc>
+    <loc>https://positiva-cali.vercel.app/cosas/2023/cosa3/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/collections/2023/collections/</loc>
+    <loc>https://positiva-cali.vercel.app/cosas/2023/cosa4/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/collections/2023/collections2/</loc>
+    <loc>https://positiva-cali.vercel.app/cosas/2023/cosa5/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/collections/2023/collections3/</loc>
+    <loc>https://positiva-cali.vercel.app/cosas/2023/cosa6/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://positiva-cali.vercel.app/collections/2023/collections4/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/collections/2023/collections5/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/collections/2023/collections6/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/tags/diversity/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/tags/echo/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/tags/newsletter/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/post/2023/ago/positiva-is-the-new-positive/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://positiva-cali.vercel.app/about/</loc>
+    <loc>https://positiva-cali.vercel.app/sobre/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

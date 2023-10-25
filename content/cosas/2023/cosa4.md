@@ -1,10 +1,10 @@
 ---
-Title: Collections No.6
+Title: Cosa No.4
 Subtitle: ""
 Date: 2023-01-01
 Lastmod : 
-Tags: ["newsletter"]
-image : "/img/collections/collections6.jpg"
+Tags: ["store"]
+image : "/img/collections/collections4.jpg"
 Description: "Articles about learning in public, brag document and free stuffs."
 Draft: 
 ---

@@ -1,7 +1,7 @@
 baseURL = "https://positiva-cali.vercel.app/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Positiva - Ecology notes + news"
+title = "Positiva - Ecología [notas + noticias]"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -30,8 +30,7 @@ summaryLength  = "9"
 gcse = false
 Lastmod = false
 rss = false 
-pagination = "10"
-
+pagination = "12"
 
 [sitemap]
   changefreq = "monthly"
@@ -40,7 +39,7 @@ pagination = "10"
 
 [Author]
   name = "Lucfreelance"
-  website = "https://lucfreelance.vercel.app/"
+  website = "https://lucfreelance.com/"
   email = "lucfreelance@gmail.com"
   facebook = "lucfreelance"
   instagram = "lucfreelance"
@@ -52,7 +51,7 @@ pagination = "10"
   #bitbucket = "lucfreelance"
   #reddit = "lucfreelance"
   #xing = "lucfreelance"
-  #stackoverflow = "users/XXXXXXX/username"
+  #stackoverflow = "users/lucfreelance/username"
   #snapchat = "lucfreelance"
   #soundcloud = "lucfreelance"
   #spotify = "lucfreelance"
@@ -63,7 +62,7 @@ pagination = "10"
   #telegram = "lucfreelance
   #500px = "lucfreelance"
   #codepen = "lucfreelance"
-  #mastodon = "url"
+  #mastodon = "lucfreelance"
   #kaggle = "lucfreelance"
   #weibo = "lucfreelance"
   #slack = "lucfreelance"
@@ -74,23 +73,23 @@ pagination = "10"
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
+    name = "Notas"
+    url = "/notas/"
     weight = 2
 
 [[menu.main]]
-    name = "Collections"
-    url = "/collections/"
+    name = "Cosas"
+    url = "/cosas/"
     weight = 3
+
+[[menu.main]]
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 4
 
 [[menu.main]]
     name = "Tags"
     url = "/tags/blog/"
-    weight = 4
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
     weight = 5
 
 

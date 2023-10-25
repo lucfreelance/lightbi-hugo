@@ -1,10 +1,10 @@
 ---
-Title: Collections No.2
+Title: Cosa No.1
 Subtitle: ""
-Date: 2023-01-01
+Date: 2023-10-01
 Lastmod : 
-Tags: ["newsletter"]
-image : "/img/collections/collections2.jpg"
+Tags: ["store"]
+image : "/img/collections/collections1.jpg"
 Description: "Articles about learning in public, brag document and free stuffs."
 Draft: 
 ---

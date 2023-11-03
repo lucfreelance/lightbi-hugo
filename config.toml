@@ -1,7 +1,7 @@
 baseURL = "https://positiva-cali.vercel.app/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Positiva - Ecología [notas + noticias]"
+title = "Positiva World [notes + news]"
 theme = "lightbi-hugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -73,18 +73,18 @@ pagination = "12"
     weight = 1
 
 [[menu.main]]
-    name = "Notas"
-    url = "/notas/"
+    name = "Notes"
+    url = "/notes/"
     weight = 2
 
 [[menu.main]]
-    name = "Cosas"
-    url = "/cosas/"
+    name = "Cases"
+    url = "/cases/"
     weight = 3
 
 [[menu.main]]
-    name = "Sobre"
-    url = "/sobre/"
+    name = "About"
+    url = "/about/"
     weight = 4
 
 [[menu.main]]

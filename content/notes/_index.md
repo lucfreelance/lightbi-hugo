@@ -1,6 +1,6 @@
 ---
 type : "tags"
-layout : "notas"
-title: "Positiva Notas"
+layout : "notes"
+title: "Positiva Notes"
 subtitle : "Phrases for impulse love to nature"
 ---

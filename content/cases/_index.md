@@ -1,6 +1,6 @@
 ---
 Type : "tags"
-layout : "cosas"
-title: "Positiva Cosas"
+layout : "cases"
+title: "Positiva Cases"
 subtitle : "Content Store Collections of Stuff Before Massive Grouping."
 ---

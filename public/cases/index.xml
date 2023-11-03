@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>store on Positiva World [notes &#43; news]</title>
-    <link>https://positiva-cali.vercel.app/tags/store/</link>
-    <description>Recent content in store on Positiva World [notes &#43; news]</description>
+    <title>Positiva Cases on Positiva World [notes &#43; news]</title>
+    <link>https://positiva-cali.vercel.app/cases/</link>
+    <description>Recent content in Positiva Cases on Positiva World [notes &#43; news]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
     <webMaster>lucfreelance@gmail.com (Lucfreelance)</webMaster>
-    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva-cali.vercel.app/tags/store/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva-cali.vercel.app/cases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Case No.2</title>
       <link>https://positiva-cali.vercel.app/cases/2023/case2/</link>

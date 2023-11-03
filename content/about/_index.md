@@ -4,7 +4,7 @@ layout: "about"
 title: "About Positiva World"
 ---
 
-![POSITIVA](https://images.pexels.com/photos/3632689/pexels-photo-3632689.jpeg?auto=compress&cs=tinysrgb&w=630&h=375&dpr=1)
+<!-- ![POSITIVA](https://images.pexels.com/photos/3632689/pexels-photo-3632689.jpeg?auto=compress&cs=tinysrgb&w=630&h=375&dpr=1) -->
 
 # #Unveiling Positiva: Empowering Change Through Eco Progress
 

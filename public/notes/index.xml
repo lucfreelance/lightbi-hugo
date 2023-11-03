@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Echo Notes on Positiva - Ecology notes &#43; news</title>
+    <title>Positiva Notes on Positiva World [notes &#43; news]</title>
     <link>https://positiva-cali.vercel.app/notes/</link>
-    <description>Recent content in Echo Notes on Positiva - Ecology notes &#43; news</description>
+    <description>Recent content in Positiva Notes on Positiva World [notes &#43; news]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>lucfreelance@gmail.com (Lucfreelance)</managingEditor>
@@ -11,28 +11,28 @@
     <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://positiva-cali.vercel.app/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eco 1</title>
-      <link>https://positiva-cali.vercel.app/notes/2023/change/</link>
+      <link>https://positiva-cali.vercel.app/notes/2023/nota1/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva-cali.vercel.app/notes/2023/change/</guid>
+      <guid>https://positiva-cali.vercel.app/notes/2023/nota1/</guid>
       <description>Ecology Unveiled Ecology delves into the intricate relationships and interdependencies that weave together the diverse elements of the natural world.</description>
     </item>
     
     <item>
       <title>Eco 2</title>
-      <link>https://positiva-cali.vercel.app/notes/2023/change2/</link>
+      <link>https://positiva-cali.vercel.app/notes/2023/nota2/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva-cali.vercel.app/notes/2023/change2/</guid>
+      <guid>https://positiva-cali.vercel.app/notes/2023/nota2/</guid>
       <description>Harmony Within Ecosystems Ecology uncovers the delicate equilibrium within ecosystems, where every organism plays a role in maintaining the intricate balance of life.</description>
     </item>
     
     <item>
       <title>Eco 3</title>
-      <link>https://positiva-cali.vercel.app/notes/2023/change3/</link>
+      <link>https://positiva-cali.vercel.app/notes/2023/nota3/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <author>lucfreelance@gmail.com (Lucfreelance)</author>
-      <guid>https://positiva-cali.vercel.app/notes/2023/change3/</guid>
+      <guid>https://positiva-cali.vercel.app/notes/2023/nota3/</guid>
       <description>Nurturing a Sustainable Tomorrow The study of ecology serves as a clarion call to cultivate a harmonious coexistence with our environment, ensuring a sustainable and thriving future for all species.</description>
     </item>
     
